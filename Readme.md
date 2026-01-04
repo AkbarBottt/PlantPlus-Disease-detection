@@ -37,7 +37,8 @@ Catatan :
 
 1. Dataset dan model besar tidak diikutkan di repo.
 2. Silakan download dataset dari sumber masing-masing dan letakkan di folder dataset/.
-3. gunakan python 3.10
+
+
 
 👤 Author
 
